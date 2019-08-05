@@ -1,0 +1,10 @@
+{
+    "host_list_path": "test_list",
+    "smtp_server": "smtp.sendgrid.net",
+    "smtp_port": 465,
+    "smtp_username": "apikey",
+    "smtp_password": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "from_email": "server_monitor@your-domain.in",
+    "to_email": ["your-email@your-domain.com"],
+    "email_subject": "Server Status Change!!!"
+}
